@@ -9,6 +9,10 @@ This project uses [semantic versions](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+## [0.2.1] 2022-10-17
+
+Tidy up
+
 ## [0.2.0] 2022-10-17
 
 Switch to slog, create interface
