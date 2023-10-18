@@ -1,11 +1,8 @@
 module github.com/jwmwalrus/walkie
 
-go 1.18
+go 1.21
 
-require (
-	github.com/gin-gonic/gin v1.7.7
-	github.com/sirupsen/logrus v1.8.1
-)
+require github.com/gin-gonic/gin v1.7.7
 
 require (
 	github.com/gin-contrib/sse v0.1.0 // indirect
