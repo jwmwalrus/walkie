@@ -1,2 +1,3 @@
 # walkie
-Bridge between Gin and Logrus
+
+Bridge between Gin and `slog`.
